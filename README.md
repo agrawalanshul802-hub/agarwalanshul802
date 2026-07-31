@@ -61,8 +61,8 @@
 
 # 🚀 Featured Projects
 
-### 🏥 Hospital Management System
-Responsive web application for managing appointments, doctors, patients, and hospital services.
+### 🏥 Ai Resume builder and scrore
+Responsive web application for making a clean resume and getting overview by knowing the score
 
 **Tech Stack:** HTML • CSS • JavaScript
 
@@ -72,13 +72,6 @@ Responsive web application for managing appointments, doctors, patients, and hos
 Interactive investment portfolio tracking application with responsive dashboard.
 
 **Tech Stack:** React • JavaScript • Python • MySQL
-
----
-
-### 🌐 Personal Portfolio Website
-Modern developer portfolio showcasing projects, skills, and achievements.
-
-**Tech Stack:** React • Tailwind CSS
 
 ---
 
